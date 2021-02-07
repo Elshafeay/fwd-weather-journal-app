@@ -11,7 +11,7 @@
 
 ## About
 
-This is a The second project of the FWD initiative on udacity. 
+This is the second project of the FWD initiative on udacity. 
 It discusses:
 - Javascript asyncrouns code.
 - Creating and dealing with node.js express server.
@@ -38,4 +38,4 @@ npm start
 ```
 - Then open your browser and go to `localhost:3000`
 
-And that's it. now you can try it with your own zip code!.
+And that's it. now you can try it with your own zip code!
